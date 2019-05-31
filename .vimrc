@@ -1,4 +1,5 @@
 
+syntax on
 set so=8
 
 set autoindent
